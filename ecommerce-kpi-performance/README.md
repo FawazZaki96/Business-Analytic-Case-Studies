@@ -1,36 +1,92 @@
-# E-Commerce KPI Performance Analysis
+# Ecommerce KPI Performance Analysis
 
-## Business Objective
-Evaluate overall commercial and customer performance of an e-commerce business using key KPIs, and provide insight-driven recommendations to support management decision making.
+## Executive Summary
+This project analyzes ecommerce business performance across key metrics such as revenue, profit, and product category performance.  
 
-## Key Questions
-- How is revenue performing and what is the average customer spend (AOV)?
-- Are there clear seasonal trends in sales?
-- Which countries contribute most to total revenue?
-- Is the business driven by repeat customers or one-time buyers?
+The analysis highlights differences between high-revenue and high-profit categories, showing that strong sales do not always translate into strong profitability.  
 
-## Analysis Overview
-The analysis covers:
-1. Total Revenue and Average Order Value (AOV)
-2. Monthly Revenue Trend and Seasonality
-3. Revenue Contribution by Country (Market Concentration)
-4. Customer Segmentation: Repeat vs One-Time Buyers
+The findings support better decision-making by identifying areas where the business should focus to improve both growth and profit.
 
-## Key Insights
-- Revenue shows strong seasonality with significant peaks during year-end (Q4), likely driven by festive and promotional demand.
-- Sales are highly concentrated in the United Kingdom, indicating both a strong core market and potential geographic concentration risk.
-- Repeat customers form the majority of the customer base and contribute most of total revenue, highlighting the importance of retention and loyalty strategies.
+---
 
-## Business Recommendations
-- Strengthen customer retention and loyalty programs to maximise lifetime value.
-- Diversify revenue by investing in high-potential international markets.
-- Leverage seasonal peaks with targeted marketing, inventory planning, and promotional campaigns.
+## Business Context
+This project simulates the role of a Business Analyst supporting an ecommerce company in monitoring and improving business performance.
 
-## Tools & Techniques
-- Python (Pandas, Matplotlib)
-- KPI Design & Time-Series Analysis
-- Segmentation & Pareto Analysis
-- Consulting-style Executive Reporting
+The objective is to evaluate key performance indicators (KPIs) and identify insights that can help the business make better strategic and operational decisions.
 
-📁 Notebook: `notebooks/01_ecommerce_kpi_performance_analysis.ipynb`
+---
 
+## Business Problem
+The business wants to understand:
+- Which product categories drive the most revenue
+- Which categories are most profitable
+- Where performance gaps exist between sales and profit
+- What actions can improve overall business performance
+
+---
+
+## Stakeholders
+- Ecommerce Manager  
+- Sales Team  
+- Business Leadership  
+- Operations Team  
+
+---
+
+## Business Questions
+- Which product categories generate the highest revenue?
+- Which categories generate the highest profit?
+- Are there categories with high sales but low profitability?
+- What trends can help guide business decisions?
+
+---
+
+## Tools Used
+- Excel  
+- SQL  
+- Power BI  
+
+---
+
+## Analysis Approach
+- Cleaned and prepared sales data for analysis  
+- Built KPI metrics for revenue and profit  
+- Compared performance across product categories  
+- Created dashboards to visualize key insights  
+
+---
+
+## Key Findings
+- Technology is the highest-performing category in both revenue and profit  
+- Furniture generates high sales but significantly lower profit  
+- Office Supplies provides strong profit relative to its sales  
+- Not all high-revenue categories deliver strong returns  
+
+---
+
+## Recommendations
+- Focus on expanding high-profit categories such as Technology  
+- Review pricing, costs, or discounts in low-profit categories like Furniture  
+- Track both revenue and profit KPIs, not just sales performance  
+- Use dashboards regularly to monitor category-level performance  
+
+---
+
+## Business Impact
+This analysis helps the business better understand the relationship between sales and profitability, enabling more informed decisions around product strategy, pricing, and performance tracking.
+
+---
+
+## What I Would Do Next as a Business Analyst
+- Analyze customer-level data to identify repeat purchase behavior  
+- Investigate discount impact on profitability  
+- Explore regional performance differences  
+- Build a monthly KPI tracking dashboard for stakeholders  
+
+---
+
+## Project Files
+- Dataset  
+- SQL queries  
+- Power BI dashboard  
+- Excel analysis  
