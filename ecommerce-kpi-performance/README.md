@@ -1,92 +1,70 @@
 # Ecommerce KPI Performance Analysis
 
 ## Executive Summary
-This project analyzes ecommerce business performance across key metrics such as revenue, profit, and product category performance.  
-
-The analysis highlights differences between high-revenue and high-profit categories, showing that strong sales do not always translate into strong profitability.  
-
-The findings support better decision-making by identifying areas where the business should focus to improve both growth and profit.
+This project analyzes ecommerce sales performance to understand key business metrics such as total revenue, order volume, and monthly trends.  
+The analysis identifies strong overall performance, with clear seasonal peaks and opportunities to improve revenue per order.
 
 ---
 
 ## Business Context
-This project simulates the role of a Business Analyst supporting an ecommerce company in monitoring and improving business performance.
-
-The objective is to evaluate key performance indicators (KPIs) and identify insights that can help the business make better strategic and operational decisions.
+This project simulates the role of a Business Analyst supporting an ecommerce company to evaluate sales performance and provide actionable business insights.
 
 ---
 
 ## Business Problem
 The business wants to understand:
-- Which product categories drive the most revenue
-- Which categories are most profitable
-- Where performance gaps exist between sales and profit
-- What actions can improve overall business performance
+- overall sales performance
+- monthly revenue trends
+- customer purchasing behavior
+- opportunities to improve revenue
 
 ---
 
-## Stakeholders
-- Ecommerce Manager  
-- Sales Team  
-- Business Leadership  
-- Operations Team  
-
----
-
-## Business Questions
-- Which product categories generate the highest revenue?
-- Which categories generate the highest profit?
-- Are there categories with high sales but low profitability?
-- What trends can help guide business decisions?
+## Key Business Questions
+- How many orders were processed?
+- What is the total revenue?
+- Which month generated the highest revenue?
+- What is the average revenue per order?
 
 ---
 
 ## Tools Used
-- Excel  
-- SQL  
-- Power BI  
+- Excel
+- Pivot Tables
+- Data Cleaning (VLOOKUP)
 
 ---
 
-## Analysis Approach
-- Cleaned and prepared sales data for analysis  
-- Built KPI metrics for revenue and profit  
-- Compared performance across product categories  
-- Created dashboards to visualize key insights  
+## Dataset
+- Brazilian Ecommerce Public Dataset (Olist)
 
 ---
 
-## Key Findings
-- Technology is the highest-performing category in both revenue and profit  
-- Furniture generates high sales but significantly lower profit  
-- Office Supplies provides strong profit relative to its sales  
-- Not all high-revenue categories deliver strong returns  
+## Key Metrics
+
+- **Total Orders:** 99,441  
+- **Total Revenue:** 15,843,553  
+- **Highest Revenue Month:** November 2017  
+- **Average Revenue per Order:** 159  
+
+---
+
+## Key Insights
+
+- The business processed a high volume of orders, indicating strong customer demand.
+- Revenue peaked in November, suggesting strong seasonal effects (e.g. promotions or holiday demand).
+- Growth appears to be driven by order volume rather than high-value transactions.
 
 ---
 
 ## Recommendations
-- Focus on expanding high-profit categories such as Technology  
-- Review pricing, costs, or discounts in low-profit categories like Furniture  
-- Track both revenue and profit KPIs, not just sales performance  
-- Use dashboards regularly to monitor category-level performance  
+
+- Prepare for peak months (e.g. November) by optimizing inventory and logistics.
+- Increase average order value through bundling, upselling, or promotions.
+- Monitor monthly KPIs regularly to identify trends and performance changes.
 
 ---
 
-## Business Impact
-This analysis helps the business better understand the relationship between sales and profitability, enabling more informed decisions around product strategy, pricing, and performance tracking.
+## Files Included
 
----
-
-## What I Would Do Next as a Business Analyst
-- Analyze customer-level data to identify repeat purchase behavior  
-- Investigate discount impact on profitability  
-- Explore regional performance differences  
-- Build a monthly KPI tracking dashboard for stakeholders  
-
----
-
-## Project Files
-- Dataset  
-- SQL queries  
-- Power BI dashboard  
-- Excel analysis  
+- `data/ecommerce_data.xlsx` → cleaned dataset with revenue and monthly analysis
