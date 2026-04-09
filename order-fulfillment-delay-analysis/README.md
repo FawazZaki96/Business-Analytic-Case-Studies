@@ -97,6 +97,6 @@ Improving delivery reliability can support better customer retention and operati
 ## Files Included
 
 - `images/` → screenshots of pivot table outputs and summary analysis  
-- `data/sample_orders_analysis.xlsx` → cleaned sample file used for analysis (reduced size for portfolio purposes)
+- The full working Excel file used for analysis is not uploaded to this repository due to file size limitations.
 
 > Note: The full raw dataset is not included in this repository due to file size. The project is based on the Brazilian Ecommerce Dataset (Olist).
