@@ -67,4 +67,5 @@ The business wants to understand:
 
 ## Files Included
 
-- `data/ecommerce_data.xlsx` → cleaned dataset with revenue and monthly analysis
+- `README.md` → project overview, analysis, insights, and recommendations
+- `data/README.md` → dataset source and data preparation notes
