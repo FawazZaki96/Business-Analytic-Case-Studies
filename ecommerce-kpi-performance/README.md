@@ -71,7 +71,7 @@ This analysis would be useful for:
 
 ## Recommendations
 
-- Prepare for peak months (e.g. November) by optimizing inventory and logistics.
+- Plan and invest in marketing, inventory, and logistics ahead of peak periods like November to fully capture seasonal demand and avoid operational bottlenecks.
 - Increase average order value through bundling, upselling, or promotions.
 - Monitor monthly KPIs regularly to identify trends and performance changes.
 
