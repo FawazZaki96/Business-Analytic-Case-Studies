@@ -88,6 +88,17 @@ By monitoring order volume, revenue trends, and seasonal performance, the compan
 
 ---
 
+## What I Would Do Next as a Business Analyst
+
+If this were a real business case, the next steps would be:
+
+- analyze product category performance to identify top and underperforming segments
+- investigate whether discounts or shipping costs affect revenue quality
+- explore customer purchase behavior and repeat order patterns
+- build a more detailed KPI dashboard for monthly business reviews
+
+---
+
 ## Files Included
 
 - `README.md` → project overview, analysis, insights, and recommendations
