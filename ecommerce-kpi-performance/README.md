@@ -20,6 +20,17 @@ The business wants to understand:
 
 ---
 
+## Stakeholders
+
+This analysis would be useful for:
+
+- **Ecommerce Manager** → to monitor sales trends and overall business performance  
+- **Sales / Commercial Team** → to understand revenue drivers and growth opportunities  
+- **Operations Team** → to prepare for peak order periods and demand fluctuations  
+- **Business Leadership** → to support strategic decision-making using KPI performance
+
+---
+
 ## Key Business Questions
 - How many orders were processed?
 - What is the total revenue?
