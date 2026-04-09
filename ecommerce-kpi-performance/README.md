@@ -65,6 +65,7 @@ This analysis would be useful for:
 - The business processed a high volume of orders, indicating strong customer demand.
 - Revenue peaked in November, suggesting strong seasonal effects (e.g. promotions or holiday demand).
 - Growth appears to be driven by order volume rather than high-value transactions.
+- Revenue shows a clear upward trend leading into November, followed by a decline afterward, indicating strong seasonal demand patterns likely driven by promotional periods or peak shopping events.
 
 ---
 
